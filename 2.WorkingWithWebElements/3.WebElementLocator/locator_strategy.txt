@@ -1,0 +1,9 @@
+Technique:
+ID
+Name
+CSS
+Xpath
+Link Text
+Partial Link Text
+Class Name
+

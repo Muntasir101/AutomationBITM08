@@ -1,0 +1,14 @@
+1665210441012	geckodriver	INFO	Listening on 127.0.0.1:54507
+1665210444086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54508" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileWWCRwr"
+1665210444493	Marionette	INFO	Marionette enabled
+1665210444498	Marionette	INFO	Listening on port 54518
+Read port: 54518
+WebDriver BiDi listening on ws://127.0.0.1:54508
+1665210444608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileWWCRwr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54508/devtools/browser/eff2e16a-74d9-4011-97e5-66e849d4958d
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1665210471888	Marionette	INFO	Stopped listening on port 54518
