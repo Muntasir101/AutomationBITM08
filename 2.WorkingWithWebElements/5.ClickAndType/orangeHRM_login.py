@@ -18,11 +18,14 @@ class OrangeHRMLogin():
         # Login Action
         Username_field.send_keys('Admin')
         time.sleep(3)
+        Username_field.send_keys('Admin')
+
+        time.sleep(3)
         Password_field.send_keys('admin123')
         time.sleep(3)
         Login_btn.click()
         time.sleep(5)
-        
+
         driver.close()
 
 

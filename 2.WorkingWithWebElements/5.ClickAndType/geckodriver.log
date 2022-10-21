@@ -12,3 +12,28 @@ console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resou
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
 1665210471888	Marionette	INFO	Stopped listening on port 54518
+1666324419862	geckodriver	INFO	Listening on 127.0.0.1:50689
+1666324422960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50690" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileQy6kMs"
+1666324423556	Marionette	INFO	Marionette enabled
+1666324423563	Marionette	INFO	Listening on port 50699
+Read port: 50699
+WebDriver BiDi listening on ws://127.0.0.1:50690
+1666324423732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileQy6kMs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50690/devtools/browser/eedba588-defe-44f0-bb72-1a898c8032fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1666324447062	Marionette	INFO	Stopped listening on port 50699
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17032, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666324747896	geckodriver	INFO	Listening on 127.0.0.1:50893
+1666324750990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50894" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileivaGlX"
+1666324751302	Marionette	INFO	Marionette enabled
+1666324751307	Marionette	INFO	Listening on port 50904
+Read port: 50904
+WebDriver BiDi listening on ws://127.0.0.1:50894
+1666324751410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileivaGlX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50894/devtools/browser/05ea3788-3a30-4f5e-ba3a-34aec54c1f7a
+1666324768903	Marionette	INFO	Stopped listening on port 50904
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
