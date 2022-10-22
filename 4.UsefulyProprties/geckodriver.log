@@ -21,8 +21,9 @@ WebDriver BiDi listening on ws://127.0.0.1:50988
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilepVzcga\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:50988/devtools/browser/0193b30c-2037-4c13-9550-b674532d8e95
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:51146
-1666332792527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileS8V00e"
+1666334061639	Marionette	INFO	Stopped listening on port 51000
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileS8V00e"
 1666332792947	Marionette	INFO	Marionette enabled
 1666332792951	Marionette	INFO	Listening on port 51158
 Read port: 51158
@@ -53,8 +54,9 @@ Read port: 51449
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileNYAXsc\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:51439/devtools/browser/f921fa16-ae63-40a7-9397-55fe283832f8
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:51693
-1666333331536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51694" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilekVG3l7"
+1666334060486	Marionette	INFO	Stopped listening on port 51449
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilekVG3l7"
 1666333331938	Marionette	INFO	Marionette enabled
 1666333331945	Marionette	INFO	Listening on port 51705
 Read port: 51705

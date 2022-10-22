@@ -37,3 +37,16 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:50894/devtools/browser/05ea3788-3a30-4f5e-ba3a-34aec54c1f7a
 1666324768903	Marionette	INFO	Stopped listening on port 50904
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666343372545	geckodriver	INFO	Listening on 127.0.0.1:53127
+1666343375598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53128" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile6Nq9z8"
+1666343376117	Marionette	INFO	Marionette enabled
+1666343376123	Marionette	INFO	Listening on port 53139
+Read port: 53139
+WebDriver BiDi listening on ws://127.0.0.1:53128
+1666343376264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile6Nq9z8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53128/devtools/browser/b174d67f-1f8a-4ca5-b046-abe8c459745b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1666343409738	Marionette	INFO	Stopped listening on port 53139
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

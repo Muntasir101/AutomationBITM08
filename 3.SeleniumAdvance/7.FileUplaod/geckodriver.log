@@ -1,0 +1,33 @@
+1666419124517	geckodriver	INFO	Listening on 127.0.0.1:65368
+1666419127577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileyLULJx"
+1666419128099	Marionette	INFO	Marionette enabled
+1666419128105	Marionette	INFO	Listening on port 65379
+Read port: 65379
+WebDriver BiDi listening on ws://127.0.0.1:65369
+1666419128238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileyLULJx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65369/devtools/browser/106f83de-751f-4b4b-85a0-cb9eba26b853
+1666419583874	Marionette	INFO	Stopped listening on port 65379
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65474" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileCgmMOR"
+1666419179808	Marionette	INFO	Marionette enabled
+1666419179813	Marionette	INFO	Listening on port 65485
+Read port: 65485
+WebDriver BiDi listening on ws://127.0.0.1:65474
+1666419179902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileCgmMOR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65474/devtools/browser/537d59cd-a5ae-43d0-8080-a6174da95019
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://the-internet.herokuapp.com."
+1666419584581	Marionette	INFO	Stopped listening on port 65485
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16408, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\Temp\\rust_mozprofileKd95h4"
+1666419398445	Marionette	INFO	Marionette enabled
+1666419398450	Marionette	INFO	Listening on port 49337
+Read port: 49337
+WebDriver BiDi listening on ws://127.0.0.1:49326
+1666419398540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileKd95h4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49326/devtools/browser/4778dfee-229f-476d-a1bf-169ba1e5faee
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://the-internet.herokuapp.com."
+1666419419232	Marionette	INFO	Stopped listening on port 49337
