@@ -21,7 +21,7 @@ class Hover():
         mac.click()
 
         time.sleep(5)
-        
+
         driver.close()
 
 
